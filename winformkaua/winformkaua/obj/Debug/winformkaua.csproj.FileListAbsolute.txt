@@ -1,0 +1,11 @@
+C:\Users\Erick\Desktop\Pratique Aqui\winformkaua\winformkaua\bin\Debug\winformkaua.exe.config
+C:\Users\Erick\Desktop\Pratique Aqui\winformkaua\winformkaua\bin\Debug\winformkaua.exe
+C:\Users\Erick\Desktop\Pratique Aqui\winformkaua\winformkaua\bin\Debug\winformkaua.pdb
+C:\Users\Erick\Desktop\Pratique Aqui\winformkaua\winformkaua\obj\Debug\winformkaua.csproj.AssemblyReference.cache
+C:\Users\Erick\Desktop\Pratique Aqui\winformkaua\winformkaua\obj\Debug\winformkaua.csproj.SuggestedBindingRedirects.cache
+C:\Users\Erick\Desktop\Pratique Aqui\winformkaua\winformkaua\obj\Debug\winformkaua.Form1.resources
+C:\Users\Erick\Desktop\Pratique Aqui\winformkaua\winformkaua\obj\Debug\winformkaua.Properties.Resources.resources
+C:\Users\Erick\Desktop\Pratique Aqui\winformkaua\winformkaua\obj\Debug\winformkaua.csproj.GenerateResource.cache
+C:\Users\Erick\Desktop\Pratique Aqui\winformkaua\winformkaua\obj\Debug\winformkaua.csproj.CoreCompileInputs.cache
+C:\Users\Erick\Desktop\Pratique Aqui\winformkaua\winformkaua\obj\Debug\winformkaua.exe
+C:\Users\Erick\Desktop\Pratique Aqui\winformkaua\winformkaua\obj\Debug\winformkaua.pdb

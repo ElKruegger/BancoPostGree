@@ -1,0 +1,8 @@
+C:\Users\Erick\Desktop\Pratique Aqui\listas\listas\bin\Debug\listas.exe.config
+C:\Users\Erick\Desktop\Pratique Aqui\listas\listas\bin\Debug\listas.exe
+C:\Users\Erick\Desktop\Pratique Aqui\listas\listas\bin\Debug\listas.pdb
+C:\Users\Erick\Desktop\Pratique Aqui\listas\listas\obj\Debug\listas.csproj.AssemblyReference.cache
+C:\Users\Erick\Desktop\Pratique Aqui\listas\listas\obj\Debug\listas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Erick\Desktop\Pratique Aqui\listas\listas\obj\Debug\listas.csproj.CoreCompileInputs.cache
+C:\Users\Erick\Desktop\Pratique Aqui\listas\listas\obj\Debug\listas.exe
+C:\Users\Erick\Desktop\Pratique Aqui\listas\listas\obj\Debug\listas.pdb

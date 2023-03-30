@@ -1,0 +1,8 @@
+C:\Users\Erick\Desktop\Pratique Aqui\arrays\arrays\bin\Debug\arrays.exe.config
+C:\Users\Erick\Desktop\Pratique Aqui\arrays\arrays\bin\Debug\arrays.exe
+C:\Users\Erick\Desktop\Pratique Aqui\arrays\arrays\bin\Debug\arrays.pdb
+C:\Users\Erick\Desktop\Pratique Aqui\arrays\arrays\obj\Debug\arrays.csproj.AssemblyReference.cache
+C:\Users\Erick\Desktop\Pratique Aqui\arrays\arrays\obj\Debug\arrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\Erick\Desktop\Pratique Aqui\arrays\arrays\obj\Debug\arrays.csproj.CoreCompileInputs.cache
+C:\Users\Erick\Desktop\Pratique Aqui\arrays\arrays\obj\Debug\arrays.exe
+C:\Users\Erick\Desktop\Pratique Aqui\arrays\arrays\obj\Debug\arrays.pdb
